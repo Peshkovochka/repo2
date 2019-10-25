@@ -1,0 +1,15 @@
+.ul {
+    list-style-type: none;
+}
+.list-item-link {
+    text-align: center;
+    font-size: 14pt;
+    display: inline-block;
+    color: rgba(98, 98, 98, 255);
+    text-transform: uppercase;
+}
+.list-item {
+    display: inline-block;
+    margin: 10px 8% 40px 8%;
+    text-align: center;
+}

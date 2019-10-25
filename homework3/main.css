@@ -1,0 +1,31 @@
+.section {
+    margin: 0px 10% 0px 10%;
+    display: inline-block;
+    width: 400px;
+    align-items: center;
+}
+.img {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.p {
+    font-size: 16px;
+    display: inline-block;
+    width: 400px;
+    color: rgba(98, 98, 98, 255);
+    margin-bottom: 40px;
+}
+.h6 {
+    font-size: 12pt;
+    color: rgba(180, 173, 158, 255);
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.header4 {
+    font-size: 16pt;
+    margin-bottom: 20px;
+    color: rgba(98, 98, 98, 255);
+    text-transform: uppercase;
+}
+
